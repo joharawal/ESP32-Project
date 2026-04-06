@@ -8,4 +8,4 @@ This my project using for ESP32
    - How it works:
 
 
-   > The battery serves as the system's primary power source, after which all components activate. First, the Neo-6m GPS sensor searches for a satellite location. Once it finds      a satellite, it sends the location coordinates to the GPS module. After obtaining the location coordinates, the GPS module sends these coordinates to the ESP32 for p            rocessing    and sending them to the monitoring dashboard. From this dashboard, we can view and monitor the location of an object.
+   > The battery serves as the system's primary power source, after which all components activate. First, the Neo-6m GPS sensor searches for a satellite location. Once it finds      a satellite, it sends the location coordinates to the GPS module. After obtaining the location coordinates, the GPS module sends these coordinates to the ESP32 for p            rocessing    and sending them to the monitoring dashboard. From this dashboard, we can view and monitor the location of an object. In this system, we can also monitor the       battery percentage.
